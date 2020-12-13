@@ -46,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -60,7 +61,7 @@
       <recent name="C:\Users\obaca\Desktop\Map\Laborator5_MAP\guisetup\src\main\java\socialnetwork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainFX">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="socialnetwork.Main" />
       <module name="guisetup.main" />
@@ -102,13 +103,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,7 +166,12 @@
       <workItem from="1607694545764" duration="49000" />
       <workItem from="1607772415189" duration="25861000" />
       <workItem from="1607808844072" duration="357000" />
+<<<<<<< HEAD
       <workItem from="1607888397213" duration="1253000" />
+=======
+      <workItem from="1607888397213" duration="613000" />
+      <workItem from="1607889502123" duration="1229000" />
+>>>>>>> 4186264bb610128994f3af7344851a2a558e0677
     </task>
     <servers />
   </component>
@@ -194,26 +202,30 @@
     </state>
     <state x="690" y="222" key="FileChooserDialogImpl/-1920.8.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1604850736323" />
     <state x="575" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1607184462028" />
-    <state width="1557" height="211" key="GridCell.Tab.0.bottom" timestamp="1607889050467">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1258" height="147" key="GridCell.Tab.0.bottom" timestamp="1607890638768">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1865" height="185" key="GridCell.Tab.0.bottom/-1920.8.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1604850797735" />
     <state width="1557" height="211" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1607889050467" />
-    <state width="1557" height="211" key="GridCell.Tab.0.center" timestamp="1607889050466">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1258" height="147" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.350.1920.1040@0.0.2560.1400" timestamp="1607890638768" />
+    <state width="1258" height="147" key="GridCell.Tab.0.center" timestamp="1607890638767">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1865" height="185" key="GridCell.Tab.0.center/-1920.8.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1604850797735" />
     <state width="1557" height="211" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1607889050466" />
-    <state width="1557" height="211" key="GridCell.Tab.0.left" timestamp="1607889050466">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1258" height="147" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.350.1920.1040@0.0.2560.1400" timestamp="1607890638767" />
+    <state width="1258" height="147" key="GridCell.Tab.0.left" timestamp="1607890638767">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1865" height="185" key="GridCell.Tab.0.left/-1920.8.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1604850797735" />
     <state width="1557" height="211" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1607889050466" />
-    <state width="1557" height="211" key="GridCell.Tab.0.right" timestamp="1607889050467">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1258" height="147" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.350.1920.1040@0.0.2560.1400" timestamp="1607890638767" />
+    <state width="1258" height="147" key="GridCell.Tab.0.right" timestamp="1607890638768">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1865" height="185" key="GridCell.Tab.0.right/-1920.8.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1604850797735" />
     <state width="1557" height="211" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1607889050467" />
+    <state width="1258" height="147" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.350.1920.1040@0.0.2560.1400" timestamp="1607890638768" />
     <state x="280" y="4" key="SettingsEditor" timestamp="1607775970653">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
