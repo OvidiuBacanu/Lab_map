@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="496a5e95-79a2-4fc8-9af1-a298521303fc" name="Default Changelist" comment="" />
+    <list default="true" id="496a5e95-79a2-4fc8-9af1-a298521303fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/socialnetwork/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/socialnetwork/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +163,7 @@
       <workItem from="1607694545764" duration="49000" />
       <workItem from="1607772415189" duration="25861000" />
       <workItem from="1607808844072" duration="357000" />
-      <workItem from="1607888397213" duration="613000" />
+      <workItem from="1607888397213" duration="1253000" />
     </task>
     <servers />
   </component>
